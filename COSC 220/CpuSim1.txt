@@ -1,0 +1,232 @@
+Welcome to the Salisbury University Bank simulation!
+
+Enter desired probability of a customer arriving [%1-100]:
+50
+Enter desired number of customers to proccessed:
+10
+Time: 0
+
+A new customer has arrived at time: 0
+The customers ticket number is 1
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+There are currently [0] waiting to be helped
+
+Time: 1
+
+A new customer has arrived at time: 1
+The customers ticket number is 2
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 2
+Teller two will re-open at time: 3
+There are currently [0] waiting to be helped
+
+Time: 2
+
+No customer has arrived since last update
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 2
+Teller two will re-open at time: 3
+There are currently [0] waiting to be helped
+
+Time: 3
+
+A new customer has arrived at time: 3
+The customers ticket number is 3
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [0] waiting to be helped
+
+Time: 4
+
+No customer has arrived since last update
+Teller one is avaible to serve another customer.
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [0] waiting to be helped
+
+Time: 5
+
+No customer has arrived since last update
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [0] waiting to be helped
+
+Time: 6
+
+No customer has arrived since last update
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [0] waiting to be helped
+
+Time: 7
+
+A new customer has arrived at time: 7
+The customers ticket number is 4
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 9
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [0] waiting to be helped
+
+Time: 8
+
+No customer has arrived since last update
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 9
+There are currently [0] waiting to be helped
+
+Time: 9
+
+A new customer has arrived at time: 9
+The customers ticket number is 5
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+There are currently [0] waiting to be helped
+
+Time: 10
+
+No customer has arrived since last update
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+There are currently [0] waiting to be helped
+
+Time: 11
+
+No customer has arrived since last update
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+There are currently [0] waiting to be helped
+
+Time: 12
+
+A new customer has arrived at time: 12
+The customers ticket number is 6
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 6
+Teller one will re-open at time: 16
+There are currently [0] waiting to be helped
+
+Time: 13
+
+A new customer has arrived at time: 13
+The customers ticket number is 7
+Teller one is now serving ticket number: 6
+Teller one will re-open at time: 16
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 16
+There are currently [0] waiting to be helped
+
+Time: 14
+
+A new customer has arrived at time: 14
+The customers ticket number is 8
+Teller one is now serving ticket number: 6
+Teller one will re-open at time: 16
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 16
+There are currently [1] waiting to be helped
+
+Time: 15
+
+A new customer has arrived at time: 15
+The customers ticket number is 9
+Teller one is now serving ticket number: 6
+Teller one will re-open at time: 16
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 16
+There are currently [2] waiting to be helped
+
+Time: 16
+
+No customer has arrived since last update
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 8
+Teller one will re-open at time: 20
+Teller two is now serving ticket number: 9
+Teller two will re-open at time: 20
+There are currently [0] waiting to be helped
+
+Time: 17
+
+A new customer has arrived at time: 17
+The customers ticket number is 10
+Teller one is now serving ticket number: 8
+Teller one will re-open at time: 20
+Teller two is now serving ticket number: 9
+Teller two will re-open at time: 20
+There are currently [1] waiting to be helped
+
+Time: 18
+
+A new customer has arrived at time: 18
+The customers ticket number is 11
+Teller one is now serving ticket number: 8
+Teller one will re-open at time: 20
+Teller two is now serving ticket number: 9
+Teller two will re-open at time: 20
+There are currently [2] waiting to be helped
+
+Time: 19
+
+A new customer has arrived at time: 19
+The customers ticket number is 12
+Teller one is now serving ticket number: 8
+Teller one will re-open at time: 20
+Teller two is now serving ticket number: 9
+Teller two will re-open at time: 20
+There are currently [3] waiting to be helped
+
+Time: 20
+
+No customer has arrived since last update
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 10
+Teller one will re-open at time: 24
+Teller two is now serving ticket number: 11
+Teller two will re-open at time: 23
+There are currently [1] waiting to be helped
+
+Time: 21
+
+No customer has arrived since last update
+Teller one is now serving ticket number: 10
+Teller one will re-open at time: 24
+Teller two is now serving ticket number: 11
+Teller two will re-open at time: 23
+There are currently [1] waiting to be helped
+
+Time: 22
+
+A new customer has arrived at time: 22
+The customers ticket number is 13
+Teller one is now serving ticket number: 10
+Teller one will re-open at time: 24
+Teller two is now serving ticket number: 11
+Teller two will re-open at time: 23
+There are currently [2] waiting to be helped
+
+Time: 23
+
+No customer has arrived since last update
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 10
+Teller one will re-open at time: 24
+Teller two is now serving ticket number: 12
+Teller two will re-open at time: 27
+There are currently [1] waiting to be helped
+
+**Summary**
+Total amount of customers served: [10] with a total processing time of: [42]
+The average amount of time it takes to process a customer: [4]
+The average amount of time a customer spent waiting: [1]
+Given the output the system can process: [20] customers per hour.

@@ -1,0 +1,2149 @@
+Welcome to the Salisbury University Bank simulation!
+
+Enter desired probability of a customer arriving [%1-100]:
+100
+Enter desired number of customers to proccessed:
+100
+Time: 0
+
+A new customer has arrived at time: 0
+The customers ticket number is 1
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+There are currently [0] waiting to be helped
+
+Time: 1
+
+A new customer has arrived at time: 1
+The customers ticket number is 2
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 2
+Teller two will re-open at time: 3
+There are currently [0] waiting to be helped
+
+Time: 2
+
+A new customer has arrived at time: 2
+The customers ticket number is 3
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 2
+Teller two will re-open at time: 3
+There are currently [1] waiting to be helped
+
+Time: 3
+
+A new customer has arrived at time: 3
+The customers ticket number is 4
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [1] waiting to be helped
+
+Time: 4
+
+A new customer has arrived at time: 4
+The customers ticket number is 5
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [1] waiting to be helped
+
+Time: 5
+
+A new customer has arrived at time: 5
+The customers ticket number is 6
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [2] waiting to be helped
+
+Time: 6
+
+A new customer has arrived at time: 6
+The customers ticket number is 7
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [3] waiting to be helped
+
+Time: 7
+
+A new customer has arrived at time: 7
+The customers ticket number is 8
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [4] waiting to be helped
+
+Time: 8
+
+A new customer has arrived at time: 8
+The customers ticket number is 9
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 6
+Teller two will re-open at time: 11
+There are currently [3] waiting to be helped
+
+Time: 9
+
+A new customer has arrived at time: 9
+The customers ticket number is 10
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 6
+Teller two will re-open at time: 11
+There are currently [4] waiting to be helped
+
+Time: 10
+
+A new customer has arrived at time: 10
+The customers ticket number is 11
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 6
+Teller two will re-open at time: 11
+There are currently [5] waiting to be helped
+
+Time: 11
+
+A new customer has arrived at time: 11
+The customers ticket number is 12
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 15
+There are currently [5] waiting to be helped
+
+Time: 12
+
+A new customer has arrived at time: 12
+The customers ticket number is 13
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 8
+Teller one will re-open at time: 15
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 15
+There are currently [5] waiting to be helped
+
+Time: 13
+
+A new customer has arrived at time: 13
+The customers ticket number is 14
+Teller one is now serving ticket number: 8
+Teller one will re-open at time: 15
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 15
+There are currently [6] waiting to be helped
+
+Time: 14
+
+A new customer has arrived at time: 14
+The customers ticket number is 15
+Teller one is now serving ticket number: 8
+Teller one will re-open at time: 15
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 15
+There are currently [7] waiting to be helped
+
+Time: 15
+
+A new customer has arrived at time: 15
+The customers ticket number is 16
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 9
+Teller one will re-open at time: 19
+Teller two is now serving ticket number: 10
+Teller two will re-open at time: 19
+There are currently [6] waiting to be helped
+
+Time: 16
+
+A new customer has arrived at time: 16
+The customers ticket number is 17
+Teller one is now serving ticket number: 9
+Teller one will re-open at time: 19
+Teller two is now serving ticket number: 10
+Teller two will re-open at time: 19
+There are currently [7] waiting to be helped
+
+Time: 17
+
+A new customer has arrived at time: 17
+The customers ticket number is 18
+Teller one is now serving ticket number: 9
+Teller one will re-open at time: 19
+Teller two is now serving ticket number: 10
+Teller two will re-open at time: 19
+There are currently [8] waiting to be helped
+
+Time: 18
+
+A new customer has arrived at time: 18
+The customers ticket number is 19
+Teller one is now serving ticket number: 9
+Teller one will re-open at time: 19
+Teller two is now serving ticket number: 10
+Teller two will re-open at time: 19
+There are currently [9] waiting to be helped
+
+Time: 19
+
+A new customer has arrived at time: 19
+The customers ticket number is 20
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 11
+Teller one will re-open at time: 23
+Teller two is now serving ticket number: 12
+Teller two will re-open at time: 22
+There are currently [8] waiting to be helped
+
+Time: 20
+
+A new customer has arrived at time: 20
+The customers ticket number is 21
+Teller one is now serving ticket number: 11
+Teller one will re-open at time: 23
+Teller two is now serving ticket number: 12
+Teller two will re-open at time: 22
+There are currently [9] waiting to be helped
+
+Time: 21
+
+A new customer has arrived at time: 21
+The customers ticket number is 22
+Teller one is now serving ticket number: 11
+Teller one will re-open at time: 23
+Teller two is now serving ticket number: 12
+Teller two will re-open at time: 22
+There are currently [10] waiting to be helped
+
+Time: 22
+
+A new customer has arrived at time: 22
+The customers ticket number is 23
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 11
+Teller one will re-open at time: 23
+Teller two is now serving ticket number: 13
+Teller two will re-open at time: 26
+There are currently [10] waiting to be helped
+
+Time: 23
+
+A new customer has arrived at time: 23
+The customers ticket number is 24
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 14
+Teller one will re-open at time: 29
+Teller two is now serving ticket number: 13
+Teller two will re-open at time: 26
+There are currently [10] waiting to be helped
+
+Time: 24
+
+A new customer has arrived at time: 24
+The customers ticket number is 25
+Teller one is now serving ticket number: 14
+Teller one will re-open at time: 29
+Teller two is now serving ticket number: 13
+Teller two will re-open at time: 26
+There are currently [11] waiting to be helped
+
+Time: 25
+
+A new customer has arrived at time: 25
+The customers ticket number is 26
+Teller one is now serving ticket number: 14
+Teller one will re-open at time: 29
+Teller two is now serving ticket number: 13
+Teller two will re-open at time: 26
+There are currently [12] waiting to be helped
+
+Time: 26
+
+A new customer has arrived at time: 26
+The customers ticket number is 27
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 14
+Teller one will re-open at time: 29
+Teller two is now serving ticket number: 15
+Teller two will re-open at time: 29
+There are currently [12] waiting to be helped
+
+Time: 27
+
+A new customer has arrived at time: 27
+The customers ticket number is 28
+Teller one is now serving ticket number: 14
+Teller one will re-open at time: 29
+Teller two is now serving ticket number: 15
+Teller two will re-open at time: 29
+There are currently [13] waiting to be helped
+
+Time: 28
+
+A new customer has arrived at time: 28
+The customers ticket number is 29
+Teller one is now serving ticket number: 14
+Teller one will re-open at time: 29
+Teller two is now serving ticket number: 15
+Teller two will re-open at time: 29
+There are currently [14] waiting to be helped
+
+Time: 29
+
+A new customer has arrived at time: 29
+The customers ticket number is 30
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 16
+Teller one will re-open at time: 35
+Teller two is now serving ticket number: 17
+Teller two will re-open at time: 32
+There are currently [13] waiting to be helped
+
+Time: 30
+
+A new customer has arrived at time: 30
+The customers ticket number is 31
+Teller one is now serving ticket number: 16
+Teller one will re-open at time: 35
+Teller two is now serving ticket number: 17
+Teller two will re-open at time: 32
+There are currently [14] waiting to be helped
+
+Time: 31
+
+A new customer has arrived at time: 31
+The customers ticket number is 32
+Teller one is now serving ticket number: 16
+Teller one will re-open at time: 35
+Teller two is now serving ticket number: 17
+Teller two will re-open at time: 32
+There are currently [15] waiting to be helped
+
+Time: 32
+
+A new customer has arrived at time: 32
+The customers ticket number is 33
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 16
+Teller one will re-open at time: 35
+Teller two is now serving ticket number: 18
+Teller two will re-open at time: 36
+There are currently [15] waiting to be helped
+
+Time: 33
+
+A new customer has arrived at time: 33
+The customers ticket number is 34
+Teller one is now serving ticket number: 16
+Teller one will re-open at time: 35
+Teller two is now serving ticket number: 18
+Teller two will re-open at time: 36
+There are currently [16] waiting to be helped
+
+Time: 34
+
+A new customer has arrived at time: 34
+The customers ticket number is 35
+Teller one is now serving ticket number: 16
+Teller one will re-open at time: 35
+Teller two is now serving ticket number: 18
+Teller two will re-open at time: 36
+There are currently [17] waiting to be helped
+
+Time: 35
+
+A new customer has arrived at time: 35
+The customers ticket number is 36
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 19
+Teller one will re-open at time: 39
+Teller two is now serving ticket number: 18
+Teller two will re-open at time: 36
+There are currently [17] waiting to be helped
+
+Time: 36
+
+A new customer has arrived at time: 36
+The customers ticket number is 37
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 19
+Teller one will re-open at time: 39
+Teller two is now serving ticket number: 20
+Teller two will re-open at time: 41
+There are currently [17] waiting to be helped
+
+Time: 37
+
+A new customer has arrived at time: 37
+The customers ticket number is 38
+Teller one is now serving ticket number: 19
+Teller one will re-open at time: 39
+Teller two is now serving ticket number: 20
+Teller two will re-open at time: 41
+There are currently [18] waiting to be helped
+
+Time: 38
+
+A new customer has arrived at time: 38
+The customers ticket number is 39
+Teller one is now serving ticket number: 19
+Teller one will re-open at time: 39
+Teller two is now serving ticket number: 20
+Teller two will re-open at time: 41
+There are currently [19] waiting to be helped
+
+Time: 39
+
+A new customer has arrived at time: 39
+The customers ticket number is 40
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 21
+Teller one will re-open at time: 42
+Teller two is now serving ticket number: 20
+Teller two will re-open at time: 41
+There are currently [19] waiting to be helped
+
+Time: 40
+
+A new customer has arrived at time: 40
+The customers ticket number is 41
+Teller one is now serving ticket number: 21
+Teller one will re-open at time: 42
+Teller two is now serving ticket number: 20
+Teller two will re-open at time: 41
+There are currently [20] waiting to be helped
+
+Time: 41
+
+A new customer has arrived at time: 41
+The customers ticket number is 42
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 21
+Teller one will re-open at time: 42
+Teller two is now serving ticket number: 22
+Teller two will re-open at time: 45
+There are currently [20] waiting to be helped
+
+Time: 42
+
+A new customer has arrived at time: 42
+The customers ticket number is 43
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 23
+Teller one will re-open at time: 45
+Teller two is now serving ticket number: 22
+Teller two will re-open at time: 45
+There are currently [20] waiting to be helped
+
+Time: 43
+
+A new customer has arrived at time: 43
+The customers ticket number is 44
+Teller one is now serving ticket number: 23
+Teller one will re-open at time: 45
+Teller two is now serving ticket number: 22
+Teller two will re-open at time: 45
+There are currently [21] waiting to be helped
+
+Time: 44
+
+A new customer has arrived at time: 44
+The customers ticket number is 45
+Teller one is now serving ticket number: 23
+Teller one will re-open at time: 45
+Teller two is now serving ticket number: 22
+Teller two will re-open at time: 45
+There are currently [22] waiting to be helped
+
+Time: 45
+
+A new customer has arrived at time: 45
+The customers ticket number is 46
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 24
+Teller one will re-open at time: 50
+Teller two is now serving ticket number: 25
+Teller two will re-open at time: 48
+There are currently [21] waiting to be helped
+
+Time: 46
+
+A new customer has arrived at time: 46
+The customers ticket number is 47
+Teller one is now serving ticket number: 24
+Teller one will re-open at time: 50
+Teller two is now serving ticket number: 25
+Teller two will re-open at time: 48
+There are currently [22] waiting to be helped
+
+Time: 47
+
+A new customer has arrived at time: 47
+The customers ticket number is 48
+Teller one is now serving ticket number: 24
+Teller one will re-open at time: 50
+Teller two is now serving ticket number: 25
+Teller two will re-open at time: 48
+There are currently [23] waiting to be helped
+
+Time: 48
+
+A new customer has arrived at time: 48
+The customers ticket number is 49
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 24
+Teller one will re-open at time: 50
+Teller two is now serving ticket number: 26
+Teller two will re-open at time: 50
+There are currently [23] waiting to be helped
+
+Time: 49
+
+A new customer has arrived at time: 49
+The customers ticket number is 50
+Teller one is now serving ticket number: 24
+Teller one will re-open at time: 50
+Teller two is now serving ticket number: 26
+Teller two will re-open at time: 50
+There are currently [24] waiting to be helped
+
+Time: 50
+
+A new customer has arrived at time: 50
+The customers ticket number is 51
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 27
+Teller one will re-open at time: 53
+Teller two is now serving ticket number: 28
+Teller two will re-open at time: 55
+There are currently [23] waiting to be helped
+
+Time: 51
+
+A new customer has arrived at time: 51
+The customers ticket number is 52
+Teller one is now serving ticket number: 27
+Teller one will re-open at time: 53
+Teller two is now serving ticket number: 28
+Teller two will re-open at time: 55
+There are currently [24] waiting to be helped
+
+Time: 52
+
+A new customer has arrived at time: 52
+The customers ticket number is 53
+Teller one is now serving ticket number: 27
+Teller one will re-open at time: 53
+Teller two is now serving ticket number: 28
+Teller two will re-open at time: 55
+There are currently [25] waiting to be helped
+
+Time: 53
+
+A new customer has arrived at time: 53
+The customers ticket number is 54
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 29
+Teller one will re-open at time: 59
+Teller two is now serving ticket number: 28
+Teller two will re-open at time: 55
+There are currently [25] waiting to be helped
+
+Time: 54
+
+A new customer has arrived at time: 54
+The customers ticket number is 55
+Teller one is now serving ticket number: 29
+Teller one will re-open at time: 59
+Teller two is now serving ticket number: 28
+Teller two will re-open at time: 55
+There are currently [26] waiting to be helped
+
+Time: 55
+
+A new customer has arrived at time: 55
+The customers ticket number is 56
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 29
+Teller one will re-open at time: 59
+Teller two is now serving ticket number: 30
+Teller two will re-open at time: 57
+There are currently [26] waiting to be helped
+
+Time: 56
+
+A new customer has arrived at time: 56
+The customers ticket number is 57
+Teller one is now serving ticket number: 29
+Teller one will re-open at time: 59
+Teller two is now serving ticket number: 30
+Teller two will re-open at time: 57
+There are currently [27] waiting to be helped
+
+Time: 57
+
+A new customer has arrived at time: 57
+The customers ticket number is 58
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 29
+Teller one will re-open at time: 59
+Teller two is now serving ticket number: 31
+Teller two will re-open at time: 60
+There are currently [27] waiting to be helped
+
+Time: 58
+
+A new customer has arrived at time: 58
+The customers ticket number is 59
+Teller one is now serving ticket number: 29
+Teller one will re-open at time: 59
+Teller two is now serving ticket number: 31
+Teller two will re-open at time: 60
+There are currently [28] waiting to be helped
+
+Time: 59
+
+A new customer has arrived at time: 59
+The customers ticket number is 60
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 32
+Teller one will re-open at time: 65
+Teller two is now serving ticket number: 31
+Teller two will re-open at time: 60
+There are currently [28] waiting to be helped
+
+Time: 60
+
+A new customer has arrived at time: 60
+The customers ticket number is 61
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 32
+Teller one will re-open at time: 65
+Teller two is now serving ticket number: 33
+Teller two will re-open at time: 65
+There are currently [28] waiting to be helped
+
+Time: 61
+
+A new customer has arrived at time: 61
+The customers ticket number is 62
+Teller one is now serving ticket number: 32
+Teller one will re-open at time: 65
+Teller two is now serving ticket number: 33
+Teller two will re-open at time: 65
+There are currently [29] waiting to be helped
+
+Time: 62
+
+A new customer has arrived at time: 62
+The customers ticket number is 63
+Teller one is now serving ticket number: 32
+Teller one will re-open at time: 65
+Teller two is now serving ticket number: 33
+Teller two will re-open at time: 65
+There are currently [30] waiting to be helped
+
+Time: 63
+
+A new customer has arrived at time: 63
+The customers ticket number is 64
+Teller one is now serving ticket number: 32
+Teller one will re-open at time: 65
+Teller two is now serving ticket number: 33
+Teller two will re-open at time: 65
+There are currently [31] waiting to be helped
+
+Time: 64
+
+A new customer has arrived at time: 64
+The customers ticket number is 65
+Teller one is now serving ticket number: 32
+Teller one will re-open at time: 65
+Teller two is now serving ticket number: 33
+Teller two will re-open at time: 65
+There are currently [32] waiting to be helped
+
+Time: 65
+
+A new customer has arrived at time: 65
+The customers ticket number is 66
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 34
+Teller one will re-open at time: 68
+Teller two is now serving ticket number: 35
+Teller two will re-open at time: 70
+There are currently [31] waiting to be helped
+
+Time: 66
+
+A new customer has arrived at time: 66
+The customers ticket number is 67
+Teller one is now serving ticket number: 34
+Teller one will re-open at time: 68
+Teller two is now serving ticket number: 35
+Teller two will re-open at time: 70
+There are currently [32] waiting to be helped
+
+Time: 67
+
+A new customer has arrived at time: 67
+The customers ticket number is 68
+Teller one is now serving ticket number: 34
+Teller one will re-open at time: 68
+Teller two is now serving ticket number: 35
+Teller two will re-open at time: 70
+There are currently [33] waiting to be helped
+
+Time: 68
+
+A new customer has arrived at time: 68
+The customers ticket number is 69
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 36
+Teller one will re-open at time: 74
+Teller two is now serving ticket number: 35
+Teller two will re-open at time: 70
+There are currently [33] waiting to be helped
+
+Time: 69
+
+A new customer has arrived at time: 69
+The customers ticket number is 70
+Teller one is now serving ticket number: 36
+Teller one will re-open at time: 74
+Teller two is now serving ticket number: 35
+Teller two will re-open at time: 70
+There are currently [34] waiting to be helped
+
+Time: 70
+
+A new customer has arrived at time: 70
+The customers ticket number is 71
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 36
+Teller one will re-open at time: 74
+Teller two is now serving ticket number: 37
+Teller two will re-open at time: 73
+There are currently [34] waiting to be helped
+
+Time: 71
+
+A new customer has arrived at time: 71
+The customers ticket number is 72
+Teller one is now serving ticket number: 36
+Teller one will re-open at time: 74
+Teller two is now serving ticket number: 37
+Teller two will re-open at time: 73
+There are currently [35] waiting to be helped
+
+Time: 72
+
+A new customer has arrived at time: 72
+The customers ticket number is 73
+Teller one is now serving ticket number: 36
+Teller one will re-open at time: 74
+Teller two is now serving ticket number: 37
+Teller two will re-open at time: 73
+There are currently [36] waiting to be helped
+
+Time: 73
+
+A new customer has arrived at time: 73
+The customers ticket number is 74
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 36
+Teller one will re-open at time: 74
+Teller two is now serving ticket number: 38
+Teller two will re-open at time: 75
+There are currently [36] waiting to be helped
+
+Time: 74
+
+A new customer has arrived at time: 74
+The customers ticket number is 75
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 39
+Teller one will re-open at time: 78
+Teller two is now serving ticket number: 38
+Teller two will re-open at time: 75
+There are currently [36] waiting to be helped
+
+Time: 75
+
+A new customer has arrived at time: 75
+The customers ticket number is 76
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 39
+Teller one will re-open at time: 78
+Teller two is now serving ticket number: 40
+Teller two will re-open at time: 81
+There are currently [36] waiting to be helped
+
+Time: 76
+
+A new customer has arrived at time: 76
+The customers ticket number is 77
+Teller one is now serving ticket number: 39
+Teller one will re-open at time: 78
+Teller two is now serving ticket number: 40
+Teller two will re-open at time: 81
+There are currently [37] waiting to be helped
+
+Time: 77
+
+A new customer has arrived at time: 77
+The customers ticket number is 78
+Teller one is now serving ticket number: 39
+Teller one will re-open at time: 78
+Teller two is now serving ticket number: 40
+Teller two will re-open at time: 81
+There are currently [38] waiting to be helped
+
+Time: 78
+
+A new customer has arrived at time: 78
+The customers ticket number is 79
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 41
+Teller one will re-open at time: 82
+Teller two is now serving ticket number: 40
+Teller two will re-open at time: 81
+There are currently [38] waiting to be helped
+
+Time: 79
+
+A new customer has arrived at time: 79
+The customers ticket number is 80
+Teller one is now serving ticket number: 41
+Teller one will re-open at time: 82
+Teller two is now serving ticket number: 40
+Teller two will re-open at time: 81
+There are currently [39] waiting to be helped
+
+Time: 80
+
+A new customer has arrived at time: 80
+The customers ticket number is 81
+Teller one is now serving ticket number: 41
+Teller one will re-open at time: 82
+Teller two is now serving ticket number: 40
+Teller two will re-open at time: 81
+There are currently [40] waiting to be helped
+
+Time: 81
+
+A new customer has arrived at time: 81
+The customers ticket number is 82
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 41
+Teller one will re-open at time: 82
+Teller two is now serving ticket number: 42
+Teller two will re-open at time: 84
+There are currently [40] waiting to be helped
+
+Time: 82
+
+A new customer has arrived at time: 82
+The customers ticket number is 83
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 43
+Teller one will re-open at time: 86
+Teller two is now serving ticket number: 42
+Teller two will re-open at time: 84
+There are currently [40] waiting to be helped
+
+Time: 83
+
+A new customer has arrived at time: 83
+The customers ticket number is 84
+Teller one is now serving ticket number: 43
+Teller one will re-open at time: 86
+Teller two is now serving ticket number: 42
+Teller two will re-open at time: 84
+There are currently [41] waiting to be helped
+
+Time: 84
+
+A new customer has arrived at time: 84
+The customers ticket number is 85
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 43
+Teller one will re-open at time: 86
+Teller two is now serving ticket number: 44
+Teller two will re-open at time: 87
+There are currently [41] waiting to be helped
+
+Time: 85
+
+A new customer has arrived at time: 85
+The customers ticket number is 86
+Teller one is now serving ticket number: 43
+Teller one will re-open at time: 86
+Teller two is now serving ticket number: 44
+Teller two will re-open at time: 87
+There are currently [42] waiting to be helped
+
+Time: 86
+
+A new customer has arrived at time: 86
+The customers ticket number is 87
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 45
+Teller one will re-open at time: 88
+Teller two is now serving ticket number: 44
+Teller two will re-open at time: 87
+There are currently [42] waiting to be helped
+
+Time: 87
+
+A new customer has arrived at time: 87
+The customers ticket number is 88
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 45
+Teller one will re-open at time: 88
+Teller two is now serving ticket number: 46
+Teller two will re-open at time: 93
+There are currently [42] waiting to be helped
+
+Time: 88
+
+A new customer has arrived at time: 88
+The customers ticket number is 89
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 47
+Teller one will re-open at time: 90
+Teller two is now serving ticket number: 46
+Teller two will re-open at time: 93
+There are currently [42] waiting to be helped
+
+Time: 89
+
+A new customer has arrived at time: 89
+The customers ticket number is 90
+Teller one is now serving ticket number: 47
+Teller one will re-open at time: 90
+Teller two is now serving ticket number: 46
+Teller two will re-open at time: 93
+There are currently [43] waiting to be helped
+
+Time: 90
+
+A new customer has arrived at time: 90
+The customers ticket number is 91
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 48
+Teller one will re-open at time: 94
+Teller two is now serving ticket number: 46
+Teller two will re-open at time: 93
+There are currently [43] waiting to be helped
+
+Time: 91
+
+A new customer has arrived at time: 91
+The customers ticket number is 92
+Teller one is now serving ticket number: 48
+Teller one will re-open at time: 94
+Teller two is now serving ticket number: 46
+Teller two will re-open at time: 93
+There are currently [44] waiting to be helped
+
+Time: 92
+
+A new customer has arrived at time: 92
+The customers ticket number is 93
+Teller one is now serving ticket number: 48
+Teller one will re-open at time: 94
+Teller two is now serving ticket number: 46
+Teller two will re-open at time: 93
+There are currently [45] waiting to be helped
+
+Time: 93
+
+A new customer has arrived at time: 93
+The customers ticket number is 94
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 48
+Teller one will re-open at time: 94
+Teller two is now serving ticket number: 49
+Teller two will re-open at time: 98
+There are currently [45] waiting to be helped
+
+Time: 94
+
+A new customer has arrived at time: 94
+The customers ticket number is 95
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 50
+Teller one will re-open at time: 96
+Teller two is now serving ticket number: 49
+Teller two will re-open at time: 98
+There are currently [45] waiting to be helped
+
+Time: 95
+
+A new customer has arrived at time: 95
+The customers ticket number is 96
+Teller one is now serving ticket number: 50
+Teller one will re-open at time: 96
+Teller two is now serving ticket number: 49
+Teller two will re-open at time: 98
+There are currently [46] waiting to be helped
+
+Time: 96
+
+A new customer has arrived at time: 96
+The customers ticket number is 97
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 51
+Teller one will re-open at time: 101
+Teller two is now serving ticket number: 49
+Teller two will re-open at time: 98
+There are currently [46] waiting to be helped
+
+Time: 97
+
+A new customer has arrived at time: 97
+The customers ticket number is 98
+Teller one is now serving ticket number: 51
+Teller one will re-open at time: 101
+Teller two is now serving ticket number: 49
+Teller two will re-open at time: 98
+There are currently [47] waiting to be helped
+
+Time: 98
+
+A new customer has arrived at time: 98
+The customers ticket number is 99
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 51
+Teller one will re-open at time: 101
+Teller two is now serving ticket number: 52
+Teller two will re-open at time: 102
+There are currently [47] waiting to be helped
+
+Time: 99
+
+A new customer has arrived at time: 99
+The customers ticket number is 100
+Teller one is now serving ticket number: 51
+Teller one will re-open at time: 101
+Teller two is now serving ticket number: 52
+Teller two will re-open at time: 102
+There are currently [48] waiting to be helped
+
+Time: 100
+
+A new customer has arrived at time: 100
+The customers ticket number is 101
+Teller one is now serving ticket number: 51
+Teller one will re-open at time: 101
+Teller two is now serving ticket number: 52
+Teller two will re-open at time: 102
+There are currently [49] waiting to be helped
+
+Time: 101
+
+A new customer has arrived at time: 101
+The customers ticket number is 102
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 53
+Teller one will re-open at time: 106
+Teller two is now serving ticket number: 52
+Teller two will re-open at time: 102
+There are currently [49] waiting to be helped
+
+Time: 102
+
+A new customer has arrived at time: 102
+The customers ticket number is 103
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 53
+Teller one will re-open at time: 106
+Teller two is now serving ticket number: 54
+Teller two will re-open at time: 104
+There are currently [49] waiting to be helped
+
+Time: 103
+
+A new customer has arrived at time: 103
+The customers ticket number is 104
+Teller one is now serving ticket number: 53
+Teller one will re-open at time: 106
+Teller two is now serving ticket number: 54
+Teller two will re-open at time: 104
+There are currently [50] waiting to be helped
+
+Time: 104
+
+A new customer has arrived at time: 104
+The customers ticket number is 105
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 53
+Teller one will re-open at time: 106
+Teller two is now serving ticket number: 55
+Teller two will re-open at time: 106
+There are currently [50] waiting to be helped
+
+Time: 105
+
+A new customer has arrived at time: 105
+The customers ticket number is 106
+Teller one is now serving ticket number: 53
+Teller one will re-open at time: 106
+Teller two is now serving ticket number: 55
+Teller two will re-open at time: 106
+There are currently [51] waiting to be helped
+
+Time: 106
+
+A new customer has arrived at time: 106
+The customers ticket number is 107
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 56
+Teller one will re-open at time: 112
+Teller two is now serving ticket number: 57
+Teller two will re-open at time: 110
+There are currently [50] waiting to be helped
+
+Time: 107
+
+A new customer has arrived at time: 107
+The customers ticket number is 108
+Teller one is now serving ticket number: 56
+Teller one will re-open at time: 112
+Teller two is now serving ticket number: 57
+Teller two will re-open at time: 110
+There are currently [51] waiting to be helped
+
+Time: 108
+
+A new customer has arrived at time: 108
+The customers ticket number is 109
+Teller one is now serving ticket number: 56
+Teller one will re-open at time: 112
+Teller two is now serving ticket number: 57
+Teller two will re-open at time: 110
+There are currently [52] waiting to be helped
+
+Time: 109
+
+A new customer has arrived at time: 109
+The customers ticket number is 110
+Teller one is now serving ticket number: 56
+Teller one will re-open at time: 112
+Teller two is now serving ticket number: 57
+Teller two will re-open at time: 110
+There are currently [53] waiting to be helped
+
+Time: 110
+
+A new customer has arrived at time: 110
+The customers ticket number is 111
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 56
+Teller one will re-open at time: 112
+Teller two is now serving ticket number: 58
+Teller two will re-open at time: 114
+There are currently [53] waiting to be helped
+
+Time: 111
+
+A new customer has arrived at time: 111
+The customers ticket number is 112
+Teller one is now serving ticket number: 56
+Teller one will re-open at time: 112
+Teller two is now serving ticket number: 58
+Teller two will re-open at time: 114
+There are currently [54] waiting to be helped
+
+Time: 112
+
+A new customer has arrived at time: 112
+The customers ticket number is 113
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 59
+Teller one will re-open at time: 115
+Teller two is now serving ticket number: 58
+Teller two will re-open at time: 114
+There are currently [54] waiting to be helped
+
+Time: 113
+
+A new customer has arrived at time: 113
+The customers ticket number is 114
+Teller one is now serving ticket number: 59
+Teller one will re-open at time: 115
+Teller two is now serving ticket number: 58
+Teller two will re-open at time: 114
+There are currently [55] waiting to be helped
+
+Time: 114
+
+A new customer has arrived at time: 114
+The customers ticket number is 115
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 59
+Teller one will re-open at time: 115
+Teller two is now serving ticket number: 60
+Teller two will re-open at time: 117
+There are currently [55] waiting to be helped
+
+Time: 115
+
+A new customer has arrived at time: 115
+The customers ticket number is 116
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 61
+Teller one will re-open at time: 120
+Teller two is now serving ticket number: 60
+Teller two will re-open at time: 117
+There are currently [55] waiting to be helped
+
+Time: 116
+
+A new customer has arrived at time: 116
+The customers ticket number is 117
+Teller one is now serving ticket number: 61
+Teller one will re-open at time: 120
+Teller two is now serving ticket number: 60
+Teller two will re-open at time: 117
+There are currently [56] waiting to be helped
+
+Time: 117
+
+A new customer has arrived at time: 117
+The customers ticket number is 118
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 61
+Teller one will re-open at time: 120
+Teller two is now serving ticket number: 62
+Teller two will re-open at time: 123
+There are currently [56] waiting to be helped
+
+Time: 118
+
+A new customer has arrived at time: 118
+The customers ticket number is 119
+Teller one is now serving ticket number: 61
+Teller one will re-open at time: 120
+Teller two is now serving ticket number: 62
+Teller two will re-open at time: 123
+There are currently [57] waiting to be helped
+
+Time: 119
+
+A new customer has arrived at time: 119
+The customers ticket number is 120
+Teller one is now serving ticket number: 61
+Teller one will re-open at time: 120
+Teller two is now serving ticket number: 62
+Teller two will re-open at time: 123
+There are currently [58] waiting to be helped
+
+Time: 120
+
+A new customer has arrived at time: 120
+The customers ticket number is 121
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 63
+Teller one will re-open at time: 126
+Teller two is now serving ticket number: 62
+Teller two will re-open at time: 123
+There are currently [58] waiting to be helped
+
+Time: 121
+
+A new customer has arrived at time: 121
+The customers ticket number is 122
+Teller one is now serving ticket number: 63
+Teller one will re-open at time: 126
+Teller two is now serving ticket number: 62
+Teller two will re-open at time: 123
+There are currently [59] waiting to be helped
+
+Time: 122
+
+A new customer has arrived at time: 122
+The customers ticket number is 123
+Teller one is now serving ticket number: 63
+Teller one will re-open at time: 126
+Teller two is now serving ticket number: 62
+Teller two will re-open at time: 123
+There are currently [60] waiting to be helped
+
+Time: 123
+
+A new customer has arrived at time: 123
+The customers ticket number is 124
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 63
+Teller one will re-open at time: 126
+Teller two is now serving ticket number: 64
+Teller two will re-open at time: 128
+There are currently [60] waiting to be helped
+
+Time: 124
+
+A new customer has arrived at time: 124
+The customers ticket number is 125
+Teller one is now serving ticket number: 63
+Teller one will re-open at time: 126
+Teller two is now serving ticket number: 64
+Teller two will re-open at time: 128
+There are currently [61] waiting to be helped
+
+Time: 125
+
+A new customer has arrived at time: 125
+The customers ticket number is 126
+Teller one is now serving ticket number: 63
+Teller one will re-open at time: 126
+Teller two is now serving ticket number: 64
+Teller two will re-open at time: 128
+There are currently [62] waiting to be helped
+
+Time: 126
+
+A new customer has arrived at time: 126
+The customers ticket number is 127
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 65
+Teller one will re-open at time: 131
+Teller two is now serving ticket number: 64
+Teller two will re-open at time: 128
+There are currently [62] waiting to be helped
+
+Time: 127
+
+A new customer has arrived at time: 127
+The customers ticket number is 128
+Teller one is now serving ticket number: 65
+Teller one will re-open at time: 131
+Teller two is now serving ticket number: 64
+Teller two will re-open at time: 128
+There are currently [63] waiting to be helped
+
+Time: 128
+
+A new customer has arrived at time: 128
+The customers ticket number is 129
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 65
+Teller one will re-open at time: 131
+Teller two is now serving ticket number: 66
+Teller two will re-open at time: 132
+There are currently [63] waiting to be helped
+
+Time: 129
+
+A new customer has arrived at time: 129
+The customers ticket number is 130
+Teller one is now serving ticket number: 65
+Teller one will re-open at time: 131
+Teller two is now serving ticket number: 66
+Teller two will re-open at time: 132
+There are currently [64] waiting to be helped
+
+Time: 130
+
+A new customer has arrived at time: 130
+The customers ticket number is 131
+Teller one is now serving ticket number: 65
+Teller one will re-open at time: 131
+Teller two is now serving ticket number: 66
+Teller two will re-open at time: 132
+There are currently [65] waiting to be helped
+
+Time: 131
+
+A new customer has arrived at time: 131
+The customers ticket number is 132
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 67
+Teller one will re-open at time: 136
+Teller two is now serving ticket number: 66
+Teller two will re-open at time: 132
+There are currently [65] waiting to be helped
+
+Time: 132
+
+A new customer has arrived at time: 132
+The customers ticket number is 133
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 67
+Teller one will re-open at time: 136
+Teller two is now serving ticket number: 68
+Teller two will re-open at time: 138
+There are currently [65] waiting to be helped
+
+Time: 133
+
+A new customer has arrived at time: 133
+The customers ticket number is 134
+Teller one is now serving ticket number: 67
+Teller one will re-open at time: 136
+Teller two is now serving ticket number: 68
+Teller two will re-open at time: 138
+There are currently [66] waiting to be helped
+
+Time: 134
+
+A new customer has arrived at time: 134
+The customers ticket number is 135
+Teller one is now serving ticket number: 67
+Teller one will re-open at time: 136
+Teller two is now serving ticket number: 68
+Teller two will re-open at time: 138
+There are currently [67] waiting to be helped
+
+Time: 135
+
+A new customer has arrived at time: 135
+The customers ticket number is 136
+Teller one is now serving ticket number: 67
+Teller one will re-open at time: 136
+Teller two is now serving ticket number: 68
+Teller two will re-open at time: 138
+There are currently [68] waiting to be helped
+
+Time: 136
+
+A new customer has arrived at time: 136
+The customers ticket number is 137
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 69
+Teller one will re-open at time: 142
+Teller two is now serving ticket number: 68
+Teller two will re-open at time: 138
+There are currently [68] waiting to be helped
+
+Time: 137
+
+A new customer has arrived at time: 137
+The customers ticket number is 138
+Teller one is now serving ticket number: 69
+Teller one will re-open at time: 142
+Teller two is now serving ticket number: 68
+Teller two will re-open at time: 138
+There are currently [69] waiting to be helped
+
+Time: 138
+
+A new customer has arrived at time: 138
+The customers ticket number is 139
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 69
+Teller one will re-open at time: 142
+Teller two is now serving ticket number: 70
+Teller two will re-open at time: 143
+There are currently [69] waiting to be helped
+
+Time: 139
+
+A new customer has arrived at time: 139
+The customers ticket number is 140
+Teller one is now serving ticket number: 69
+Teller one will re-open at time: 142
+Teller two is now serving ticket number: 70
+Teller two will re-open at time: 143
+There are currently [70] waiting to be helped
+
+Time: 140
+
+A new customer has arrived at time: 140
+The customers ticket number is 141
+Teller one is now serving ticket number: 69
+Teller one will re-open at time: 142
+Teller two is now serving ticket number: 70
+Teller two will re-open at time: 143
+There are currently [71] waiting to be helped
+
+Time: 141
+
+A new customer has arrived at time: 141
+The customers ticket number is 142
+Teller one is now serving ticket number: 69
+Teller one will re-open at time: 142
+Teller two is now serving ticket number: 70
+Teller two will re-open at time: 143
+There are currently [72] waiting to be helped
+
+Time: 142
+
+A new customer has arrived at time: 142
+The customers ticket number is 143
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 71
+Teller one will re-open at time: 148
+Teller two is now serving ticket number: 70
+Teller two will re-open at time: 143
+There are currently [72] waiting to be helped
+
+Time: 143
+
+A new customer has arrived at time: 143
+The customers ticket number is 144
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 71
+Teller one will re-open at time: 148
+Teller two is now serving ticket number: 72
+Teller two will re-open at time: 147
+There are currently [72] waiting to be helped
+
+Time: 144
+
+A new customer has arrived at time: 144
+The customers ticket number is 145
+Teller one is now serving ticket number: 71
+Teller one will re-open at time: 148
+Teller two is now serving ticket number: 72
+Teller two will re-open at time: 147
+There are currently [73] waiting to be helped
+
+Time: 145
+
+A new customer has arrived at time: 145
+The customers ticket number is 146
+Teller one is now serving ticket number: 71
+Teller one will re-open at time: 148
+Teller two is now serving ticket number: 72
+Teller two will re-open at time: 147
+There are currently [74] waiting to be helped
+
+Time: 146
+
+A new customer has arrived at time: 146
+The customers ticket number is 147
+Teller one is now serving ticket number: 71
+Teller one will re-open at time: 148
+Teller two is now serving ticket number: 72
+Teller two will re-open at time: 147
+There are currently [75] waiting to be helped
+
+Time: 147
+
+A new customer has arrived at time: 147
+The customers ticket number is 148
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 71
+Teller one will re-open at time: 148
+Teller two is now serving ticket number: 73
+Teller two will re-open at time: 152
+There are currently [75] waiting to be helped
+
+Time: 148
+
+A new customer has arrived at time: 148
+The customers ticket number is 149
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 74
+Teller one will re-open at time: 154
+Teller two is now serving ticket number: 73
+Teller two will re-open at time: 152
+There are currently [75] waiting to be helped
+
+Time: 149
+
+A new customer has arrived at time: 149
+The customers ticket number is 150
+Teller one is now serving ticket number: 74
+Teller one will re-open at time: 154
+Teller two is now serving ticket number: 73
+Teller two will re-open at time: 152
+There are currently [76] waiting to be helped
+
+Time: 150
+
+A new customer has arrived at time: 150
+The customers ticket number is 151
+Teller one is now serving ticket number: 74
+Teller one will re-open at time: 154
+Teller two is now serving ticket number: 73
+Teller two will re-open at time: 152
+There are currently [77] waiting to be helped
+
+Time: 151
+
+A new customer has arrived at time: 151
+The customers ticket number is 152
+Teller one is now serving ticket number: 74
+Teller one will re-open at time: 154
+Teller two is now serving ticket number: 73
+Teller two will re-open at time: 152
+There are currently [78] waiting to be helped
+
+Time: 152
+
+A new customer has arrived at time: 152
+The customers ticket number is 153
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 74
+Teller one will re-open at time: 154
+Teller two is now serving ticket number: 75
+Teller two will re-open at time: 157
+There are currently [78] waiting to be helped
+
+Time: 153
+
+A new customer has arrived at time: 153
+The customers ticket number is 154
+Teller one is now serving ticket number: 74
+Teller one will re-open at time: 154
+Teller two is now serving ticket number: 75
+Teller two will re-open at time: 157
+There are currently [79] waiting to be helped
+
+Time: 154
+
+A new customer has arrived at time: 154
+The customers ticket number is 155
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 76
+Teller one will re-open at time: 159
+Teller two is now serving ticket number: 75
+Teller two will re-open at time: 157
+There are currently [79] waiting to be helped
+
+Time: 155
+
+A new customer has arrived at time: 155
+The customers ticket number is 156
+Teller one is now serving ticket number: 76
+Teller one will re-open at time: 159
+Teller two is now serving ticket number: 75
+Teller two will re-open at time: 157
+There are currently [80] waiting to be helped
+
+Time: 156
+
+A new customer has arrived at time: 156
+The customers ticket number is 157
+Teller one is now serving ticket number: 76
+Teller one will re-open at time: 159
+Teller two is now serving ticket number: 75
+Teller two will re-open at time: 157
+There are currently [81] waiting to be helped
+
+Time: 157
+
+A new customer has arrived at time: 157
+The customers ticket number is 158
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 76
+Teller one will re-open at time: 159
+Teller two is now serving ticket number: 77
+Teller two will re-open at time: 163
+There are currently [81] waiting to be helped
+
+Time: 158
+
+A new customer has arrived at time: 158
+The customers ticket number is 159
+Teller one is now serving ticket number: 76
+Teller one will re-open at time: 159
+Teller two is now serving ticket number: 77
+Teller two will re-open at time: 163
+There are currently [82] waiting to be helped
+
+Time: 159
+
+A new customer has arrived at time: 159
+The customers ticket number is 160
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 78
+Teller one will re-open at time: 163
+Teller two is now serving ticket number: 77
+Teller two will re-open at time: 163
+There are currently [82] waiting to be helped
+
+Time: 160
+
+A new customer has arrived at time: 160
+The customers ticket number is 161
+Teller one is now serving ticket number: 78
+Teller one will re-open at time: 163
+Teller two is now serving ticket number: 77
+Teller two will re-open at time: 163
+There are currently [83] waiting to be helped
+
+Time: 161
+
+A new customer has arrived at time: 161
+The customers ticket number is 162
+Teller one is now serving ticket number: 78
+Teller one will re-open at time: 163
+Teller two is now serving ticket number: 77
+Teller two will re-open at time: 163
+There are currently [84] waiting to be helped
+
+Time: 162
+
+A new customer has arrived at time: 162
+The customers ticket number is 163
+Teller one is now serving ticket number: 78
+Teller one will re-open at time: 163
+Teller two is now serving ticket number: 77
+Teller two will re-open at time: 163
+There are currently [85] waiting to be helped
+
+Time: 163
+
+A new customer has arrived at time: 163
+The customers ticket number is 164
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 79
+Teller one will re-open at time: 165
+Teller two is now serving ticket number: 80
+Teller two will re-open at time: 167
+There are currently [84] waiting to be helped
+
+Time: 164
+
+A new customer has arrived at time: 164
+The customers ticket number is 165
+Teller one is now serving ticket number: 79
+Teller one will re-open at time: 165
+Teller two is now serving ticket number: 80
+Teller two will re-open at time: 167
+There are currently [85] waiting to be helped
+
+Time: 165
+
+A new customer has arrived at time: 165
+The customers ticket number is 166
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 81
+Teller one will re-open at time: 167
+Teller two is now serving ticket number: 80
+Teller two will re-open at time: 167
+There are currently [85] waiting to be helped
+
+Time: 166
+
+A new customer has arrived at time: 166
+The customers ticket number is 167
+Teller one is now serving ticket number: 81
+Teller one will re-open at time: 167
+Teller two is now serving ticket number: 80
+Teller two will re-open at time: 167
+There are currently [86] waiting to be helped
+
+Time: 167
+
+A new customer has arrived at time: 167
+The customers ticket number is 168
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 82
+Teller one will re-open at time: 170
+Teller two is now serving ticket number: 83
+Teller two will re-open at time: 171
+There are currently [85] waiting to be helped
+
+Time: 168
+
+A new customer has arrived at time: 168
+The customers ticket number is 169
+Teller one is now serving ticket number: 82
+Teller one will re-open at time: 170
+Teller two is now serving ticket number: 83
+Teller two will re-open at time: 171
+There are currently [86] waiting to be helped
+
+Time: 169
+
+A new customer has arrived at time: 169
+The customers ticket number is 170
+Teller one is now serving ticket number: 82
+Teller one will re-open at time: 170
+Teller two is now serving ticket number: 83
+Teller two will re-open at time: 171
+There are currently [87] waiting to be helped
+
+Time: 170
+
+A new customer has arrived at time: 170
+The customers ticket number is 171
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 84
+Teller one will re-open at time: 175
+Teller two is now serving ticket number: 83
+Teller two will re-open at time: 171
+There are currently [87] waiting to be helped
+
+Time: 171
+
+A new customer has arrived at time: 171
+The customers ticket number is 172
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 84
+Teller one will re-open at time: 175
+Teller two is now serving ticket number: 85
+Teller two will re-open at time: 175
+There are currently [87] waiting to be helped
+
+Time: 172
+
+A new customer has arrived at time: 172
+The customers ticket number is 173
+Teller one is now serving ticket number: 84
+Teller one will re-open at time: 175
+Teller two is now serving ticket number: 85
+Teller two will re-open at time: 175
+There are currently [88] waiting to be helped
+
+Time: 173
+
+A new customer has arrived at time: 173
+The customers ticket number is 174
+Teller one is now serving ticket number: 84
+Teller one will re-open at time: 175
+Teller two is now serving ticket number: 85
+Teller two will re-open at time: 175
+There are currently [89] waiting to be helped
+
+Time: 174
+
+A new customer has arrived at time: 174
+The customers ticket number is 175
+Teller one is now serving ticket number: 84
+Teller one will re-open at time: 175
+Teller two is now serving ticket number: 85
+Teller two will re-open at time: 175
+There are currently [90] waiting to be helped
+
+Time: 175
+
+A new customer has arrived at time: 175
+The customers ticket number is 176
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 86
+Teller one will re-open at time: 179
+Teller two is now serving ticket number: 87
+Teller two will re-open at time: 181
+There are currently [89] waiting to be helped
+
+Time: 176
+
+A new customer has arrived at time: 176
+The customers ticket number is 177
+Teller one is now serving ticket number: 86
+Teller one will re-open at time: 179
+Teller two is now serving ticket number: 87
+Teller two will re-open at time: 181
+There are currently [90] waiting to be helped
+
+Time: 177
+
+A new customer has arrived at time: 177
+The customers ticket number is 178
+Teller one is now serving ticket number: 86
+Teller one will re-open at time: 179
+Teller two is now serving ticket number: 87
+Teller two will re-open at time: 181
+There are currently [91] waiting to be helped
+
+Time: 178
+
+A new customer has arrived at time: 178
+The customers ticket number is 179
+Teller one is now serving ticket number: 86
+Teller one will re-open at time: 179
+Teller two is now serving ticket number: 87
+Teller two will re-open at time: 181
+There are currently [92] waiting to be helped
+
+Time: 179
+
+A new customer has arrived at time: 179
+The customers ticket number is 180
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 88
+Teller one will re-open at time: 182
+Teller two is now serving ticket number: 87
+Teller two will re-open at time: 181
+There are currently [92] waiting to be helped
+
+Time: 180
+
+A new customer has arrived at time: 180
+The customers ticket number is 181
+Teller one is now serving ticket number: 88
+Teller one will re-open at time: 182
+Teller two is now serving ticket number: 87
+Teller two will re-open at time: 181
+There are currently [93] waiting to be helped
+
+Time: 181
+
+A new customer has arrived at time: 181
+The customers ticket number is 182
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 88
+Teller one will re-open at time: 182
+Teller two is now serving ticket number: 89
+Teller two will re-open at time: 185
+There are currently [93] waiting to be helped
+
+Time: 182
+
+A new customer has arrived at time: 182
+The customers ticket number is 183
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 90
+Teller one will re-open at time: 186
+Teller two is now serving ticket number: 89
+Teller two will re-open at time: 185
+There are currently [93] waiting to be helped
+
+Time: 183
+
+A new customer has arrived at time: 183
+The customers ticket number is 184
+Teller one is now serving ticket number: 90
+Teller one will re-open at time: 186
+Teller two is now serving ticket number: 89
+Teller two will re-open at time: 185
+There are currently [94] waiting to be helped
+
+Time: 184
+
+A new customer has arrived at time: 184
+The customers ticket number is 185
+Teller one is now serving ticket number: 90
+Teller one will re-open at time: 186
+Teller two is now serving ticket number: 89
+Teller two will re-open at time: 185
+There are currently [95] waiting to be helped
+
+Time: 185
+
+A new customer has arrived at time: 185
+The customers ticket number is 186
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 90
+Teller one will re-open at time: 186
+Teller two is now serving ticket number: 91
+Teller two will re-open at time: 187
+There are currently [95] waiting to be helped
+
+Time: 186
+
+A new customer has arrived at time: 186
+The customers ticket number is 187
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 92
+Teller one will re-open at time: 191
+Teller two is now serving ticket number: 91
+Teller two will re-open at time: 187
+There are currently [95] waiting to be helped
+
+Time: 187
+
+A new customer has arrived at time: 187
+The customers ticket number is 188
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 92
+Teller one will re-open at time: 191
+Teller two is now serving ticket number: 93
+Teller two will re-open at time: 190
+There are currently [95] waiting to be helped
+
+Time: 188
+
+A new customer has arrived at time: 188
+The customers ticket number is 189
+Teller one is now serving ticket number: 92
+Teller one will re-open at time: 191
+Teller two is now serving ticket number: 93
+Teller two will re-open at time: 190
+There are currently [96] waiting to be helped
+
+Time: 189
+
+A new customer has arrived at time: 189
+The customers ticket number is 190
+Teller one is now serving ticket number: 92
+Teller one will re-open at time: 191
+Teller two is now serving ticket number: 93
+Teller two will re-open at time: 190
+There are currently [97] waiting to be helped
+
+Time: 190
+
+A new customer has arrived at time: 190
+The customers ticket number is 191
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 92
+Teller one will re-open at time: 191
+Teller two is now serving ticket number: 94
+Teller two will re-open at time: 192
+There are currently [97] waiting to be helped
+
+Time: 191
+
+A new customer has arrived at time: 191
+The customers ticket number is 192
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 95
+Teller one will re-open at time: 195
+Teller two is now serving ticket number: 94
+Teller two will re-open at time: 192
+There are currently [97] waiting to be helped
+
+Time: 192
+
+A new customer has arrived at time: 192
+The customers ticket number is 193
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 95
+Teller one will re-open at time: 195
+Teller two is now serving ticket number: 96
+Teller two will re-open at time: 196
+There are currently [97] waiting to be helped
+
+Time: 193
+
+A new customer has arrived at time: 193
+The customers ticket number is 194
+Teller one is now serving ticket number: 95
+Teller one will re-open at time: 195
+Teller two is now serving ticket number: 96
+Teller two will re-open at time: 196
+There are currently [98] waiting to be helped
+
+Time: 194
+
+A new customer has arrived at time: 194
+The customers ticket number is 195
+Teller one is now serving ticket number: 95
+Teller one will re-open at time: 195
+Teller two is now serving ticket number: 96
+Teller two will re-open at time: 196
+There are currently [99] waiting to be helped
+
+Time: 195
+
+A new customer has arrived at time: 195
+The customers ticket number is 196
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 97
+Teller one will re-open at time: 199
+Teller two is now serving ticket number: 96
+Teller two will re-open at time: 196
+There are currently [99] waiting to be helped
+
+Time: 196
+
+A new customer has arrived at time: 196
+The customers ticket number is 197
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 97
+Teller one will re-open at time: 199
+Teller two is now serving ticket number: 98
+Teller two will re-open at time: 200
+There are currently [99] waiting to be helped
+
+Time: 197
+
+A new customer has arrived at time: 197
+The customers ticket number is 198
+Teller one is now serving ticket number: 97
+Teller one will re-open at time: 199
+Teller two is now serving ticket number: 98
+Teller two will re-open at time: 200
+There are currently [100] waiting to be helped
+
+Time: 198
+
+A new customer has arrived at time: 198
+The customers ticket number is 199
+Teller one is now serving ticket number: 97
+Teller one will re-open at time: 199
+Teller two is now serving ticket number: 98
+Teller two will re-open at time: 200
+There are currently [101] waiting to be helped
+
+Time: 199
+
+A new customer has arrived at time: 199
+The customers ticket number is 200
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 99
+Teller one will re-open at time: 202
+Teller two is now serving ticket number: 98
+Teller two will re-open at time: 200
+There are currently [101] waiting to be helped
+
+Time: 200
+
+A new customer has arrived at time: 200
+The customers ticket number is 201
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 99
+Teller one will re-open at time: 202
+Teller two is now serving ticket number: 100
+Teller two will re-open at time: 203
+There are currently [101] waiting to be helped
+
+Time: 201
+
+A new customer has arrived at time: 201
+The customers ticket number is 202
+Teller one is now serving ticket number: 99
+Teller one will re-open at time: 202
+Teller two is now serving ticket number: 100
+Teller two will re-open at time: 203
+There are currently [102] waiting to be helped
+
+Time: 202
+
+A new customer has arrived at time: 202
+The customers ticket number is 203
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 101
+Teller one will re-open at time: 206
+Teller two is now serving ticket number: 100
+Teller two will re-open at time: 203
+There are currently [102] waiting to be helped
+
+Time: 203
+
+A new customer has arrived at time: 203
+The customers ticket number is 204
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 101
+Teller one will re-open at time: 206
+Teller two is now serving ticket number: 102
+Teller two will re-open at time: 205
+There are currently [102] waiting to be helped
+
+**Summary**
+Total amount of customers served: [100] with a total processing time of: [410]
+The average amount of time it takes to process a customer: [4]
+The average amount of time a customer spent waiting: [50]
+Given the output the system can process: [0] customers per hour.

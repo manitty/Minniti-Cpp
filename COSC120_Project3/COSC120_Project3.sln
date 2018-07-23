@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "COSC120_Project3", "COSC120_Project3\COSC120_Project3.cproj", "{2E59B8A6-E475-4FB7-85BC-D44D1F468FBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E59B8A6-E475-4FB7-85BC-D44D1F468FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E59B8A6-E475-4FB7-85BC-D44D1F468FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E59B8A6-E475-4FB7-85BC-D44D1F468FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E59B8A6-E475-4FB7-85BC-D44D1F468FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = COSC120_Project3\COSC120_Project3.cproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Life\Life\bin\Debug\Life.exe.config
+C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Life\Life\bin\Debug\Life.exe
+C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Life\Life\bin\Debug\Life.pdb
+C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Life\Life\obj\Debug\Life.csprojResolveAssemblyReference.cache
+C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Life\Life\obj\Debug\Life.exe
+C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Life\Life\obj\Debug\Life.pdb

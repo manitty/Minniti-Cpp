@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="COSC220_Lab2/UnsortedList.cpp">
+    <Files>
+      <File FileName="COSC220_Lab2/UnsortedList.cpp" Line="22" Column="21" />
+      <File FileName="COSC220_Lab2/TestUnsortedList.cpp" Line="27" Column="11" />
+      <File FileName="COSC220_Lab2/UnsortedList.h" Line="21" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

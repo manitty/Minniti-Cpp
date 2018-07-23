@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "COSC220_Lab4", "COSC220_Lab4\COSC220_Lab4.cproj", "{E7103FA6-13A6-4A8F-A13E-DC073435A2D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7103FA6-13A6-4A8F-A13E-DC073435A2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7103FA6-13A6-4A8F-A13E-DC073435A2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7103FA6-13A6-4A8F-A13E-DC073435A2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7103FA6-13A6-4A8F-A13E-DC073435A2D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = COSC220_Lab4\COSC220_Lab4.cproj
+	EndGlobalSection
+EndGlobal

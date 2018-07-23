@@ -1,0 +1,123 @@
+﻿Build started 11/19/2015 5:27:32 PM.
+     1>Project "C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Lab 12\Lab 12\Lab 12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\..\..\..\Downloads\employee.cpp ..\..\..\..\..\..\Downloads\executive.cpp ..\..\..\..\..\..\Downloads\manager.cpp technicalstaff.cpp
+         technicalstaff.cpp
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(6): error C2653: 'Technicalstaff' : is not a class or namespace name
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(7): error C2550: 'Technicalstaff' : constructor initializer lists are only allowed on constructor definitions
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(8): error C3861: 'set_profit_sharing': identifier not found
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(9): warning C4508: 'Technicalstaff' : function should return a value; 'void' return type assumed
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(11): error C2653: 'Technicalstaff' : is not a class or namespace name
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(13): error C2065: 'profit_sharing' : undeclared identifier
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(16): error C2653: 'Technicalstaff' : is not a class or namespace name
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(17): error C2270: 'get_profit_sharing' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(18): error C2065: 'profit_sharing' : undeclared identifier
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(21): error C2653: 'Technicalstaff' : is not a class or namespace name
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(22): error C2270: 'calculate_techstaff_salary' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(23): error C2065: 'profit_sharing' : undeclared identifier
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(23): error C3861: 'get_base_salary': identifier not found
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(26): error C2653: 'Technicalstaff' : is not a class or namespace name
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(27): error C2270: 'print_profit_sharing' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(28): error C2065: 'profit_sharing' : undeclared identifier
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(31): error C2653: 'Technicalstaff' : is not a class or namespace name
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(32): error C2270: 'print_all_techstaff' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(33): error C3861: 'print_all': identifier not found
+     1>c:\users\paul\documents\salisbury\cosc\cosc 220\lab 12\lab 12\technicalstaff.cpp(34): error C2065: 'profit_sharing' : undeclared identifier
+         manager.cpp
+     1>c:\users\paul\downloads\manager.cpp(6): error C2653: 'Manager' : is not a class or namespace name
+     1>c:\users\paul\downloads\manager.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\paul\downloads\manager.cpp(6): error C2550: 'Manager' : constructor initializer lists are only allowed on constructor definitions
+     1>c:\users\paul\downloads\manager.cpp(7): error C3861: 'set_bonus_pay': identifier not found
+     1>c:\users\paul\downloads\manager.cpp(8): warning C4508: 'Manager' : function should return a value; 'void' return type assumed
+     1>c:\users\paul\downloads\manager.cpp(10): error C2653: 'Manager' : is not a class or namespace name
+     1>c:\users\paul\downloads\manager.cpp(12): error C2065: 'bonus_pay' : undeclared identifier
+     1>c:\users\paul\downloads\manager.cpp(15): error C2653: 'Manager' : is not a class or namespace name
+     1>c:\users\paul\downloads\manager.cpp(16): error C2270: 'get_bonus_pay' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\manager.cpp(17): error C2065: 'bonus_pay' : undeclared identifier
+     1>c:\users\paul\downloads\manager.cpp(20): error C2653: 'Manager' : is not a class or namespace name
+     1>c:\users\paul\downloads\manager.cpp(21): error C2270: 'calculate_manager_salary' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\manager.cpp(22): error C2065: 'bonus_pay' : undeclared identifier
+     1>c:\users\paul\downloads\manager.cpp(22): error C3861: 'get_base_salary': identifier not found
+     1>c:\users\paul\downloads\manager.cpp(25): error C2653: 'Manager' : is not a class or namespace name
+     1>c:\users\paul\downloads\manager.cpp(26): error C2270: 'print_bonus_pay' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\manager.cpp(27): error C2065: 'bonus_pay' : undeclared identifier
+     1>c:\users\paul\downloads\manager.cpp(30): error C2653: 'Manager' : is not a class or namespace name
+     1>c:\users\paul\downloads\manager.cpp(31): error C2270: 'print_all_manager' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\manager.cpp(32): error C3861: 'print_all': identifier not found
+     1>c:\users\paul\downloads\manager.cpp(33): error C2065: 'bonus_pay' : undeclared identifier
+         executive.cpp
+     1>c:\users\paul\downloads\executive.cpp(6): error C2653: 'Executive' : is not a class or namespace name
+     1>c:\users\paul\downloads\executive.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\paul\downloads\executive.cpp(7): error C2550: 'Executive' : constructor initializer lists are only allowed on constructor definitions
+     1>c:\users\paul\downloads\executive.cpp(8): error C3861: 'set_stock_option': identifier not found
+     1>c:\users\paul\downloads\executive.cpp(9): warning C4508: 'Executive' : function should return a value; 'void' return type assumed
+     1>c:\users\paul\downloads\executive.cpp(11): error C2653: 'Executive' : is not a class or namespace name
+     1>c:\users\paul\downloads\executive.cpp(13): error C2065: 'stock_option' : undeclared identifier
+     1>c:\users\paul\downloads\executive.cpp(16): error C2653: 'Executive' : is not a class or namespace name
+     1>c:\users\paul\downloads\executive.cpp(17): error C2270: 'get_stock_option' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\executive.cpp(18): error C2065: 'stock_option' : undeclared identifier
+     1>c:\users\paul\downloads\executive.cpp(21): error C2653: 'Executive' : is not a class or namespace name
+     1>c:\users\paul\downloads\executive.cpp(22): error C2270: 'calculate_executive_salary' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\executive.cpp(23): error C2065: 'stock_option' : undeclared identifier
+     1>c:\users\paul\downloads\executive.cpp(23): error C3861: 'calculate_manager_salary': identifier not found
+     1>c:\users\paul\downloads\executive.cpp(26): error C2653: 'Executive' : is not a class or namespace name
+     1>c:\users\paul\downloads\executive.cpp(27): error C2270: 'print_stock_opton' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\executive.cpp(28): error C2065: 'stock_option' : undeclared identifier
+     1>c:\users\paul\downloads\executive.cpp(31): error C2653: 'Executive' : is not a class or namespace name
+     1>c:\users\paul\downloads\executive.cpp(32): error C2270: 'print_all_executive' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\executive.cpp(33): error C3861: 'print_all_manager': identifier not found
+     1>c:\users\paul\downloads\executive.cpp(34): error C2065: 'stock_option' : undeclared identifier
+         employee.cpp
+     1>c:\users\paul\downloads\employee.cpp(5): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>c:\users\paul\downloads\employee.cpp(7): error C2065: 'last_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(8): error C2065: 'first_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(9): error C2065: 'job_title' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(10): error C3861: 'set_base_salary': identifier not found
+     1>c:\users\paul\downloads\employee.cpp(11): warning C4508: 'Employee' : function should return a value; 'void' return type assumed
+     1>c:\users\paul\downloads\employee.cpp(13): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(14): error C2270: 'get_base_salary' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(15): error C2065: 'base_salary' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(18): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(19): error C2270: 'get_first_name' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(20): error C2065: 'first_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(23): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(24): error C2270: 'get_job_title' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(25): error C2065: 'job_title' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(28): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(29): error C2270: 'get_last_name' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(30): error C2065: 'last_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(33): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(35): error C2065: 'base_salary' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(38): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(40): error C2065: 'first_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(43): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(45): error C2065: 'job_title' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(48): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(50): error C2065: 'last_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(53): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(54): error C2270: 'calculate_salary' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(55): error C2065: 'base_salary' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(58): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(59): error C2270: 'print_all' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(60): error C2065: 'last_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(61): error C2065: 'first_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(62): error C2065: 'job_title' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(63): error C2065: 'base_salary' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(66): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(67): error C2270: 'print_first_last' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(68): error C2065: 'last_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(69): error C2065: 'first_name' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(72): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(73): error C2270: 'print_job' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(74): error C2065: 'job_title' : undeclared identifier
+     1>c:\users\paul\downloads\employee.cpp(77): error C2653: 'Employee' : is not a class or namespace name
+     1>c:\users\paul\downloads\employee.cpp(78): error C2270: 'print_salary' : modifiers not allowed on nonmember functions
+     1>c:\users\paul\downloads\employee.cpp(79): error C2065: 'base_salary' : undeclared identifier
+         Generating Code...
+     1>Done Building Project "C:\Users\Paul\Documents\Salisbury\COSC\COSC 220\Lab 12\Lab 12\Lab 12.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.10

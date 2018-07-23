@@ -1,0 +1,134 @@
+Welcome to the Salisbury University Bank simulation!
+
+Enter desired probability of a customer arriving [%1-100]:
+100
+Enter desired number of customers to proccessed:
+5
+Time: 0
+
+A new customer has arrived at time: 0
+The customers ticket number is 1
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+There are currently [0] waiting to be helped
+
+Time: 1
+
+A new customer has arrived at time: 1
+The customers ticket number is 2
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 2
+Teller two will re-open at time: 3
+There are currently [0] waiting to be helped
+
+Time: 2
+
+A new customer has arrived at time: 2
+The customers ticket number is 3
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 2
+Teller two will re-open at time: 3
+There are currently [1] waiting to be helped
+
+Time: 3
+
+A new customer has arrived at time: 3
+The customers ticket number is 4
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 1
+Teller one will re-open at time: 4
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [1] waiting to be helped
+
+Time: 4
+
+A new customer has arrived at time: 4
+The customers ticket number is 5
+Teller one is avaible to serve another customer.
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [1] waiting to be helped
+
+Time: 5
+
+A new customer has arrived at time: 5
+The customers ticket number is 6
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [2] waiting to be helped
+
+Time: 6
+
+A new customer has arrived at time: 6
+The customers ticket number is 7
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [3] waiting to be helped
+
+Time: 7
+
+A new customer has arrived at time: 7
+The customers ticket number is 8
+Teller one is now serving ticket number: 4
+Teller one will re-open at time: 8
+Teller two is now serving ticket number: 3
+Teller two will re-open at time: 8
+There are currently [4] waiting to be helped
+
+Time: 8
+
+A new customer has arrived at time: 8
+The customers ticket number is 9
+Teller one is avaible to serve another customer.
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 6
+Teller two will re-open at time: 11
+There are currently [3] waiting to be helped
+
+Time: 9
+
+A new customer has arrived at time: 9
+The customers ticket number is 10
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 6
+Teller two will re-open at time: 11
+There are currently [4] waiting to be helped
+
+Time: 10
+
+A new customer has arrived at time: 10
+The customers ticket number is 11
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 6
+Teller two will re-open at time: 11
+There are currently [5] waiting to be helped
+
+Time: 11
+
+A new customer has arrived at time: 11
+The customers ticket number is 12
+Teller two is avaible to serve another customer.
+Teller one is now serving ticket number: 5
+Teller one will re-open at time: 12
+Teller two is now serving ticket number: 7
+Teller two will re-open at time: 15
+There are currently [5] waiting to be helped
+
+**Summary**
+Total amount of customers served: [5] with a total processing time of: [26]
+The average amount of time it takes to process a customer: [5]
+The average amount of time a customer spent waiting: [2]
+Given the output the system can process: [25] customers per hour.
